@@ -1,5 +1,4 @@
-Seahaven-Card-Game
-                                                                                                     
+#A solitaire card game to allow users play with a python program managing the game                                                                                                  
                                                                                                        
 #  Algorithm for main                                                                                           
 #       initializing the board 
