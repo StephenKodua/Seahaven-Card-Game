@@ -29,7 +29,7 @@ def initialize():
         for each_list in tableau: 
             each_list.append(stock.deal()) #apppends 5 cards
 
-    cells[1] = stock.deal() #puts in last two to cells
+    cells[1] = stock.deal() #puts in last two to cells 
     cells[2] = stock.deal() 
             
     
